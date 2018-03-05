@@ -1,0 +1,8 @@
+{
+  "name": "brokenkitchen",
+  "app_id": "18f25689",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
